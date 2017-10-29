@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="camera"
+        android:icon="@drawable/ic_camera_black_24dp"
+        android:id="@+id/menu_camera"/>
+
+    <item android:title="palette"
+        android:icon="@drawable/ic_palette_black_24dp"
+        android:id="@+id/menu_palette"/>
+
+    <item android:title="security"
+        android:icon="@drawable/ic_security_black_24dp"
+        android:id="@+id/menu_security"/>
+
+    <item android:title="setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:id="@+id/menu_setting"/>
+</menu>
